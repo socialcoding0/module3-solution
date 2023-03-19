@@ -1,0 +1,14 @@
+.display-5 {
+    font-weight: bolder !important;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif !important;
+}
+
+.active {
+    background-color: gray !important;
+    border-color: transparent !important;
+
+}
+
+a.active {
+    color: white !important;
+}
